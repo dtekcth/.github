@@ -1,6 +1,7 @@
 {
     "name": "Build Dockerfile",
     "description": "Build and publish a docker image on a 'v*.*.*' tag",
+    "iconName": "octicon rocket"
     "categories": [
         "Dockerfile"
     ],
