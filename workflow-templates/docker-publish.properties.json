@@ -1,0 +1,7 @@
+{
+    "name": "Build and Publish",
+    "description": "Build and publish a docker image on a 'v*.*.*' tag",
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
