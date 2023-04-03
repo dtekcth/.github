@@ -1,5 +1,5 @@
 {
-    "name": "Build and Publish",
+    "name": "Build Dockerfile",
     "description": "Build and publish a docker image on a 'v*.*.*' tag",
     "categories": [
         "Dockerfile"
